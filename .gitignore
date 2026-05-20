@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales (si usas venv)
+env/
+venv/
+.venv/
+
+# Configuración local de H.U.N.N.I.G.A.N. (Rutas locales de Santiago)
+config.json
+
+# Carpetas de editores
+.vscode/
+.idea/
+
+# Logs del servidor
+*.log
